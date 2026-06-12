@@ -49,4 +49,3 @@ A personal, structured repository dedicated to learning and mastering Go (Golang
 
 ---
 *Made with ❤️ and Go.*
-```
