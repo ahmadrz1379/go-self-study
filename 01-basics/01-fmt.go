@@ -2,8 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
-	// استفاده از := برای تعریف و مقداردهی همزمان (خیلی Go-پسندتره!)
+func main() { 
 	name := "ali"
 	age := 18
 	score := 48.6850
