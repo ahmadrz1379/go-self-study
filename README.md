@@ -5,7 +5,7 @@ A structured, hands-on repository for self-studying Go (Golang), featuring code 
 
 ### `README.md`
 
-```markdown
+```
 # 🚀 Go Self-Study Journey
 
 A personal, structured repository dedicated to learning and mastering Go (Golang) through hands-on practice, exercises, and mini-projects.
